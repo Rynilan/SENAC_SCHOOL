@@ -1,5 +1,5 @@
-This is a project which aim to simulate a student registration SoftWare, made by the SENAC team of student of the course of Techinical in System Analisis.
-The project consist in a main screen that make you able to navigate through the different functions of our SoftWare, they are:
+  This is a project which aim to simulate a student registration SoftWare, made by the SENAC team of student of the course of Techinical in System Analisis.
+  The project consist in a main screen that make you able to navigate through the different functions of our SoftWare, they are:
 * Register a student through name, age and adress
 * Register the grade of the four periods of a student
 * List all students registered and its informations
